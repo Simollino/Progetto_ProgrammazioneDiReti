@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, sans-serif;
+    background: #e3eafc;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #0a2240;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+    font-weight: bold;
+}
+.logo {
+    width: 50px;
+    vertical-align: middle;
+}
+main {
+    background: #fff;
+    margin: 2em auto;
+    padding: 2em;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+th, td {
+    border: 1px solid #bbb;
+    padding: 0.5em;
+    text-align: center;
+}
+th {
+    background: #0a2240;
+    color: #fff;
+}
